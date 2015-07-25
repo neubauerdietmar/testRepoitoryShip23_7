@@ -1,6 +1,6 @@
 package Game;
 
-//test eintrag
+//test eintrag lecken
 import logging.Logging;
 
 /**
