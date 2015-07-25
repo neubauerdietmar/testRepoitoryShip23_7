@@ -1,0 +1,109 @@
+2015-07-15 08:34:16,979  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 08:34:32,885  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 08:34:45,573  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 08:35:20,498  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 08:54:53,909  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 09:06:54,737  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 09:18:03,890  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 09:32:10,069  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 09:32:13,661  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 09:37:17,811  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 09:37:36,265  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 09:37:59,202  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 09:40:42,426  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 09:40:50,053  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 09:41:23,349  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 09:41:31,338  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 09:41:42,946  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 09:41:46,866  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 09:50:22,935  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 10:21:55,074  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 10:24:15,701  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 10:24:19,900  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 10:40:58,332  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 10:41:13,023  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 10:41:35,133  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 10:41:43,584  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 10:43:27,554  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 10:44:31,778  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 10:44:47,451  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 11:21:27,370  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string doesn't found! use default string
+2015-07-15 11:21:27,448  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 11:21:47,273  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 11:26:08,018  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string novalidstring PlvsCPU wasn't found in File! Use default string
+2015-07-15 11:26:08,096  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 11:34:34,724  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string "PLAYER vs. CPU" wasn't found in File! Using default string
+2015-07-15 11:34:34,724  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string "PLAYER vs. PLAYER" wasn't found in File! Using default string
+2015-07-15 11:34:34,802  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 11:34:50,855  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 11:35:05,502  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string "PLAYER vs. CPU" wasn't found in File! Using default string
+2015-07-15 11:35:05,502  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string "PLAYER vs. PLAYER" wasn't found in File! Using default string
+2015-07-15 11:35:05,581  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 11:36:22,457  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string "PLAYER vs. CPU" wasn't found in File! Using default string
+2015-07-15 11:36:22,551  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 11:36:32,777  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string "PLAYER vs. CPU" wasn't found in File! Using default string
+2015-07-15 11:36:32,855  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 11:36:38,851  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 11:36:45,459  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string "PLAYER vs. CPU" wasn't found in File! Using default string
+2015-07-15 11:36:45,537  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 11:37:51,097  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 11:37:57,251  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 11:38:12,036  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 11:40:41,423  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 11:41:34,183  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string "PLAYER vs. CPU" wasn't found in File! Using default string
+2015-07-15 11:41:34,183  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string "PLAYER vs. PLAYER" wasn't found in File! Using default string
+2015-07-15 11:41:34,261  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 11:43:08,895  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string "PLAYER vs. CPU" wasn't found in File! Using default string
+2015-07-15 11:43:08,895  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string "PLAYER vs. PLAYER" wasn't found in File! Using default string
+2015-07-15 11:43:08,973  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 11:44:19,902  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string "PLAYER vs. CPU" wasn't found in File! Using default string
+2015-07-15 11:44:19,902  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string "PLAYER vs. PLAYER" wasn't found in File! Using default string
+2015-07-15 11:44:19,980  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 11:44:23,812  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 11:44:26,114  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string "PLAYER vs. CPU" wasn't found in File! Using default string
+2015-07-15 11:44:26,114  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string "PLAYER vs. PLAYER" wasn't found in File! Using default string
+2015-07-15 11:44:26,192  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 11:45:06,385  INFO [main] - logging.Logging.writeInfoMessage 43 - translation string "PLAYER vs. PLAYER" wasn't found in File! Using default string
+2015-07-15 11:45:06,479  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 12:10:37,830  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 12:10:49,069  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 12:10:57,568  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 12:11:03,850  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 12:11:12,115  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 12:21:21,631  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 13:05:11,434  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 13:05:23,722  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 13:05:30,711  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 13:05:35,623  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 13:05:40,760  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 13:05:48,930  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 13:05:52,348  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 13:32:59,309  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 20:17:01,947  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 20:59:10,872  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 21:01:41,991  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 21:09:32,254  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 21:10:08,049  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 21:11:14,241  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 21:11:39,978  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 21:12:30,752  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 21:13:20,759  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 21:17:08,828  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 21:20:39,419  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 21:20:50,170  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 21:21:07,918  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 21:24:30,291  INFO [main] - logging.Logging.writeInfoMessage 43 - Can't find selected language "en"! Using default language English!
+2015-07-15 21:24:30,380  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 21:24:40,573  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 21:24:45,498  INFO [main] - logging.Logging.writeInfoMessage 43 - Can't find selected language "en"! Using default language English!
+2015-07-15 21:24:45,588  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 21:29:34,609  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 21:29:47,728  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 21:29:52,950  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 21:34:38,482  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-15 21:34:46,378  INFO [AWT-EventQueue-0] - logging.Logging.writeInfoMessage 43 - changed Start View Settings
+2015-07-15 21:34:50,898  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-20 19:24:35,862  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-20 21:58:44,249  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-22 21:17:54,529  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
+2015-07-22 21:18:38,904  INFO [main] - logging.Logging.writeInfoMessage 43 - Start Game
