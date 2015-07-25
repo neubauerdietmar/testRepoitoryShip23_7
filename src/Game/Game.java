@@ -1,6 +1,5 @@
 package Game;
 
-//test eintrag
 import logging.Logging;
 
 /**
